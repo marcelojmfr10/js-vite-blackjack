@@ -1,6 +1,7 @@
-html, body {
+html,
+body {
   margin: 0px;
-  background-color: #2F4F30;
+  background-color: #2f4f30;
   color: white;
 }
 
@@ -17,10 +18,9 @@ html, body {
   width: 150px;
   left: 100px;
   margin-left: -75px;
-
 }
 
-#computadora-cartas, #jugador-cartas {
-height: 240px;
+#computadora-cartas,
+#jugador-cartas {
+  height: 240px;
 }
-
